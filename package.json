@@ -39,7 +39,7 @@
   "dependencies": {
     "@flowcrypt/fine-uploader": "5.16.4",
     "dompurify": "2.2.6",
-    "jquery": "3.5.1",
+    "jquery": "3.6.0",
     "openpgp": "4.10.10",
     "sweetalert2": "10.15.5",
     "node-forge": "0.10.0",
